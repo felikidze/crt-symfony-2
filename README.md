@@ -1,4 +1,4 @@
-# crt-symfony-1
+# crt-symfony-2
 # For Create DataBase
 CREATE TABLE IF NOT EXISTS countries (
 	id SERIAL PRIMARY KEY,
